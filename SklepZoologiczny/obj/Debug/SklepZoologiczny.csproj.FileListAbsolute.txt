@@ -1,0 +1,62 @@
+C:\Users\Przemek Jasiaczyk\source\repos\SklepZoologiczny\SklepZoologiczny\bin\Debug\SklepZoologiczny.exe.config
+C:\Users\Przemek Jasiaczyk\source\repos\SklepZoologiczny\SklepZoologiczny\bin\Debug\SklepZoologiczny.exe
+C:\Users\Przemek Jasiaczyk\source\repos\SklepZoologiczny\SklepZoologiczny\bin\Debug\SklepZoologiczny.pdb
+C:\Users\Przemek Jasiaczyk\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.csproj.AssemblyReference.cache
+C:\Users\Przemek Jasiaczyk\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.csproj.SuggestedBindingRedirects.cache
+C:\Users\Przemek Jasiaczyk\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Form1.resources
+C:\Users\Przemek Jasiaczyk\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Properties.Resources.resources
+C:\Users\Przemek Jasiaczyk\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.csproj.GenerateResource.cache
+C:\Users\Przemek Jasiaczyk\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.csproj.CoreCompileInputs.cache
+C:\Users\Przemek Jasiaczyk\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.exe
+C:\Users\Przemek Jasiaczyk\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.pdb
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\SklepZoologiczny.exe.config
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\SklepZoologiczny.exe
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\SklepZoologiczny.pdb
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\Google.Protobuf.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\MySql.Data.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Buffers.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.IO.Pipelines.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Memory.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\ZstdSharp.dll
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\Google.Protobuf.pdb
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\Google.Protobuf.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\MySql.Data.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Buffers.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.IO.Pipelines.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Memory.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.csproj.AssemblyReference.cache
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.csproj.SuggestedBindingRedirects.cache
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Dodawanie_produktów.resources
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Edycja_profilu.resources
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Finalizacja_zamówienia.resources
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Form1.resources
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Historia_zakupow.resources
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Home.resources
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Koszyk.resources
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Oferta.resources
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Properties.Resources.resources
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.Rejestracja.resources
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.csproj.GenerateResource.cache
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.csproj.CoreCompileInputs.cache
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.csproj.CopyComplete
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.exe
+C:\Users\maki3\OneDrive\Pulpit\SklepZoologiczny\SklepZoologiczny\obj\Debug\SklepZoologiczny.pdb
