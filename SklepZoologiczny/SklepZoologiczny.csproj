@@ -141,6 +141,12 @@
       <DependentUpon>Koszyk.cs</DependentUpon>
     </Compile>
     <Compile Include="Logic\KlientService.cs" />
+    <Compile Include="Magazyn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Magazyn.Designer.cs">
+      <DependentUpon>Magazyn.cs</DependentUpon>
+    </Compile>
     <Compile Include="Microsoft\VisualBasic\Interaction.cs" />
     <Compile Include="Model\Klient.cs" />
     <Compile Include="Model\Pracownik.cs" />
@@ -182,6 +188,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Koszyk.resx">
       <DependentUpon>Koszyk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Magazyn.resx">
+      <DependentUpon>Magazyn.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Oferta.resx">
       <DependentUpon>Oferta.cs</DependentUpon>

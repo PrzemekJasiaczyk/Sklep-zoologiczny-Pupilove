@@ -63,5 +63,17 @@ namespace SklepZoologiczny
         {
 
         }
+
+        private void Home_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button7_Stan_Magazynowy_Click(object sender, EventArgs e)
+        {
+            Magazyn magazynForm = new Magazyn(this.userId);
+            this.Hide();
+            magazynForm.ShowDialog();
+        }
     }
 }

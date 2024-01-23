@@ -157,6 +157,7 @@
             this.button7_Stan_Magazynowy.TabIndex = 8;
             this.button7_Stan_Magazynowy.Text = "Stan magazynowy";
             this.button7_Stan_Magazynowy.UseVisualStyleBackColor = false;
+            this.button7_Stan_Magazynowy.Click += new System.EventHandler(this.button7_Stan_Magazynowy_Click);
             // 
             // button8_Historia_zakupów
             // 
@@ -227,6 +228,7 @@
             this.Name = "Home";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Home";
+            this.Load += new System.EventHandler(this.Home_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
